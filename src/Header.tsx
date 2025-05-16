@@ -5,7 +5,7 @@ export default function Header() {
   return (
     <div>
       <div className="header-top">
-        <img class="header-image" src={image}></img>
+        <img className="header-image" src={image}></img>
         <h1>Remy Castella</h1>
         <p className="prof-title">Aspiring Developer</p>
         <p className="email">remy.jpen@gmail.com</p>
